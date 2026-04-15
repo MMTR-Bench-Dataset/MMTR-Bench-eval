@@ -2,12 +2,11 @@
 
 This pipeline targets the flattened `MMTR.jsonl` benchmark format, where each line is a single sample. It is designed for a public, git-safe release and does not depend on the legacy `shapes/source_meta` structure.
 
-## Links
-
-- [Hugging Face Dataset](https://huggingface.co/datasets/MMTR-Bench/MMTR-Bench-Dataset)
-- [Project Homepage](https://mmtr-bench-dataset.github.io/MMTR-Bench/)
-
-## Overview
+<p align="center">
+  <a href="https://mmtr-bench-dataset.github.io/MMTR-Bench/">🏠 Homepage</a> |
+  <a href="https://huggingface.co/datasets/MMTR-Bench/MMTR-Bench-Dataset">🤗 Hugging Face</a> |
+  <span>📄 Paper (coming soon)</span>
+</p>
 
 <p align="center">
   <img src="assets/model_bench.png" alt="MMTR-Bench overview" width="900">
