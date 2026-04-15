@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.pyo
+*.tmp
+*.log
+mmtr_eval_outputs/

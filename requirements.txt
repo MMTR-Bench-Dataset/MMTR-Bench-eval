@@ -1,0 +1,8 @@
+# Install PyTorch separately based on your own CUDA / GPU environment.
+# This project was originally run with PyTorch 2.6.0+cu124.
+openai==1.109.1
+Pillow==11.0.0
+tqdm==4.67.1
+editdistance==0.8.1
+numpy==1.26.4
+sentence-transformers==5.1.1
