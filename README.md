@@ -5,9 +5,8 @@ This pipeline targets the flattened `MMTR.jsonl` benchmark format, where each li
 <p align="center">
   <a href="https://mmtr-bench-dataset.github.io/MMTR-Bench/">🏠 Homepage</a> |
   <a href="https://huggingface.co/datasets/MMTR-Bench/MMTR-Bench-Dataset">🤗 Hugging Face</a> |
-  <span>📄 Paper (coming soon)</span>
+  <a href="https://arxiv.org/abs/2604.21277">📄 Paper</a>
 </p>
-
 <p align="center">
   <img src="assets/model_bench.png" alt="MMTR-Bench overview" width="900">
 </p>
